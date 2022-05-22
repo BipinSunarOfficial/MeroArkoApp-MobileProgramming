@@ -47,7 +47,7 @@ public class LoginActivity extends AppCompatActivity {
                 public void onClick(View view) {
 
                     if (error()) {
-                        Intent intent1 = new Intent(LoginActivity.this, DashboardActivity.class);
+                        Intent intent1 = new Intent(LoginActivity.this, CategoryActivity.class);
                         startActivity(intent1);
                     }
                 }
@@ -76,7 +76,7 @@ public class LoginActivity extends AppCompatActivity {
 
         else if(Password.getText().toString().isEmpty())
         {
-            Toast.makeText(LoginActivity.this, "Please Provide your Email.", Toast.LENGTH_LONG).show();
+            Toast.makeText(LoginActivity.this, "Please Provide your Password.", Toast.LENGTH_LONG).show();
             return false;
         }
         else{

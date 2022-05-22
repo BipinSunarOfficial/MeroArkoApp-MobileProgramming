@@ -41,14 +41,7 @@ public class SignUpActivity extends AppCompatActivity {
         DOB = findViewById(R.id.dob);
         signup_btn = findViewById(R.id.signup_btn);
 
-
-//        checkPlaying = findViewById(R.id.check_playing);
-//        checkDancing = findViewById(R.id.check_dancing);
-//        checkCoding = findViewById(R.id.check_coding);
-//        checkSinging  = findViewById(R.id.check_singing);
         checkTermsAndCondition = findViewById(R.id.check_TermsAndCondition);
-
-
 
         // below function gives the activity in signup btn click
         signup_btn.setOnClickListener(new View.OnClickListener() {
@@ -124,17 +117,11 @@ public class SignUpActivity extends AppCompatActivity {
             return false;
         }
 
-//
-//        else if(checkPlaying.isChecked() || checkDancing.isChecked() || checkCoding.isChecked() || checkSinging.isChecked())
-//        {
-//
-//        }
         else
         {
             Toast.makeText(SignUpActivity.this, "New User Registered Successfully.", Toast.LENGTH_LONG).show();
 
         }
-
 
         return true;
     }

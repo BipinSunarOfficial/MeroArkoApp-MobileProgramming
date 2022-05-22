@@ -10,11 +10,14 @@
         <entry key="..\:/Users/Bipin/AndroidStudioProjects/MeroArkoApp/app/src/main/res/drawable/signup_btn_bg.xml" value="0.1462837837837838" />
         <entry key="..\:/Users/Bipin/AndroidStudioProjects/MeroArkoApp/app/src/main/res/layout/activity_category.xml" value="0.1" />
         <entry key="..\:/Users/Bipin/AndroidStudioProjects/MeroArkoApp/app/src/main/res/layout/activity_dashboard.xml" value="0.1358108108108108" />
+        <entry key="..\:/Users/Bipin/AndroidStudioProjects/MeroArkoApp/app/src/main/res/layout/activity_grid_view.xml" value="0.11851092896174864" />
         <entry key="..\:/Users/Bipin/AndroidStudioProjects/MeroArkoApp/app/src/main/res/layout/activity_hello.xml" value="0.12" />
         <entry key="..\:/Users/Bipin/AndroidStudioProjects/MeroArkoApp/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Bipin/AndroidStudioProjects/MeroArkoApp/app/src/main/res/layout/activity_product_list.xml" value="0.1" />
         <entry key="..\:/Users/Bipin/AndroidStudioProjects/MeroArkoApp/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
         <entry key="..\:/Users/Bipin/AndroidStudioProjects/MeroArkoApp/app/src/main/res/layout/activity_signup.xml" value="0.12021857923497267" />
         <entry key="..\:/Users/Bipin/AndroidStudioProjects/MeroArkoApp/app/src/main/res/layout/adapter_product.xml" value="0.22" />
+        <entry key="..\:/Users/Bipin/AndroidStudioProjects/MeroArkoApp/app/src/main/res/layout/adapter_product_item.xml" value="0.22" />
         <entry key="..\:/Users/Bipin/AndroidStudioProjects/MeroArkoApp/app/src/main/res/layout/constraint_layout.xml" value="0.15011119347664936" />
         <entry key="..\:/Users/Bipin/AndroidStudioProjects/MeroArkoApp/app/src/main/res/layout/fragment_dashboard.xml" value="0.22" />
         <entry key="..\:/Users/Bipin/AndroidStudioProjects/MeroArkoApp/app/src/main/res/layout/fragment_home.xml" value="0.1" />
